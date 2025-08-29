@@ -1,2 +1,8 @@
 # Hola-Mundo
 RepoBaseDatos
+# Crear tag
+buscamos el commit que queremos etiquetar
+```sh
+git log --oneline --all #buscamos el commit
+git tag -a "Mensaje del tag" + numero del commit # De esta forma le añadimos un tag al commit
+```
