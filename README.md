@@ -8,6 +8,10 @@ git tag -a "Mensaje del tag" + numero del commit # De esta forma le añadimos un
 git push origin main #para subir el commit
 git push --tags # Para subir las etiquetas
 ```
+<<<<<<< HEAD
 # Commits De Prueba
 <br>
 Modificando el commits
+=======
+# Commits De Prueba
+>>>>>>> f2558073e6df47774ed403c0c814d902106224e7
